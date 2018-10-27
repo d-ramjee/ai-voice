@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\bin\Debug\VoiceBot.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\bin\Debug\VoiceBot.exe
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\bin\Debug\VoiceBot.pdb
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.exe
+c:\users\dell\documents\visual studio 2015\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.pdb
